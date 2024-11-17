@@ -1,0 +1,7 @@
+chromadb #pdfを言語モデルに読み込む際に必要
+langchain
+langchain-community
+langchain_openai
+pypdf #pdfを読み込む際に必要
+openai
+python-dotenv
